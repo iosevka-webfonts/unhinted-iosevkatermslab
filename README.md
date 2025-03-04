@@ -1,4 +1,4 @@
-# Unhinted Iosevkatermslab WebFont 32.5.0
+# Unhinted Iosevkatermslab WebFont 33.0.1
 
 ## How to use
 
